@@ -1,0 +1,47 @@
+@media screen and (max-width: 768px) {
+    img {
+        width: 100%;
+    }
+}
+
+body {
+    background-color: #b8a9c9;
+    padding-top: 85px;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif, 'arial';
+    font-weight: 600;
+    font-size: 72px;
+    color: white;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Kaushan Script', cursive;
+    font-weight: 400;
+    font-size: 25px;
+    color: #622569;
+    line-height: 1.5;
+}
+
+img {
+    padding: 20px;
+    margin: 20px;
+}
+
+#sub-row {
+    padding: 20px;
+    margin: 20px;
+}
+
+#container {
+    padding: 20px;
+    margin: 20px;
+    align-items: center;
+}
+
+#logo {
+    float: center;
+    
+}
